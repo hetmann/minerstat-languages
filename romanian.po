@@ -1280,7 +1280,7 @@ msgid "Please make sure that you have also updated the worker's name on your sof
 msgstr ""
 
 msgid "New name"
-msgstr ""
+msgstr "Nume nou"
 
 msgid "ASIC local IP"
 msgstr ""
@@ -1313,13 +1313,13 @@ msgid "Daily earnings"
 msgstr ""
 
 msgid "GPUs"
-msgstr ""
+msgstr "GPU"
 
 msgid "Max temp."
-msgstr ""
+msgstr "Max temp."
 
 msgid "Max fans"
-msgstr ""
+msgstr "Max ventilatoare"
 
 msgid "Free space"
 msgstr ""
@@ -1337,7 +1337,7 @@ msgid "Remote IP"
 msgstr ""
 
 msgid "Last sync"
-msgstr ""
+msgstr "Ultima sincronizare"
 
 msgid "Hashrate stats not available yet."
 msgstr ""
@@ -1352,64 +1352,64 @@ msgid "Make sure the worker is using the correct access key:"
 msgstr ""
 
 msgid "Need help?"
-msgstr ""
+msgstr "Ai nevoie de ajutor?"
 
 msgid "Previous worker"
-msgstr ""
+msgstr "Miner anterior"
 
 msgid "Next worker"
-msgstr ""
+msgstr "Minerul următor"
 
 msgid "Please note that this action will shut down your machine."
 msgstr ""
 
 msgid "Yes, shut down"
-msgstr ""
+msgstr "Da, închide"
 
 msgid "'s console log"
-msgstr ""
+msgstr "log-uri consola"
 
 msgid "Close"
-msgstr ""
+msgstr "Închide"
 
 msgid "This worker doesn't exist on your account."
 msgstr ""
 
 msgid "vs. yesterday"
-msgstr ""
+msgstr "vs. ieri"
 
 msgid "vs. same day last week"
 msgstr ""
 
 msgid "Last 7 days"
-msgstr ""
+msgstr "Ultimele 7 zile"
 
 msgid "vs. previous 7 days"
-msgstr ""
+msgstr "vs. 7 zile anterioare"
 
 msgid "This month"
-msgstr ""
+msgstr "Luna curentă"
 
 msgid "vs. same period last month"
 msgstr ""
 
 msgid "Last 30 days"
-msgstr ""
+msgstr "Ultimele 30 zile"
 
 msgid "vs. previous 30 days"
-msgstr ""
+msgstr "vs. 30 zile anterioare"
 
 msgid "Need more stats?"
-msgstr ""
+msgstr "Ai nevoie de statistici?"
 
 msgid "Get minerstat+ to monitor up to 60 days of data."
 msgstr ""
 
 msgid "Last 3 days"
-msgstr ""
+msgstr "Ultimele 3 zile"
 
 msgid "Not enough data"
-msgstr ""
+msgstr "Date insuficiente"
 
 msgid "Statistics will be automatically updated once available."
 msgstr ""
@@ -1418,19 +1418,19 @@ msgid "Worker's latest activity"
 msgstr ""
 
 msgid "Nothing new"
-msgstr ""
+msgstr "Nimic nou"
 
 msgid "No worker or group selected"
-msgstr ""
+msgstr "Niciun miner sau grup selectat"
 
 msgid "This mining software doesn't exist."
-msgstr ""
+msgstr "Softul de minerit nu există."
 
 msgid "No such workers/groups"
 msgstr ""
 
 msgid "Unknown error occured."
-msgstr ""
+msgstr "Eroare necunoscuta."
 
 msgid "Add an individual worker or groups"
 msgstr ""
@@ -1439,16 +1439,16 @@ msgid "Add workers or groups ..."
 msgstr ""
 
 msgid "Groups"
-msgstr ""
+msgstr "Grupuri"
 
 msgid "Select all"
-msgstr ""
+msgstr "Selectează tot"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmă"
 
 msgid "Target"
-msgstr ""
+msgstr "Tu"
 
 msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
 msgstr ""
@@ -1460,7 +1460,7 @@ msgid "Add more or change groups for selected worker(s)"
 msgstr ""
 
 msgid "Add a group..."
-msgstr ""
+msgstr "Adaugă un grup..."
 
 msgid "Default client"
 msgstr ""
@@ -1475,55 +1475,55 @@ msgid "Select default CPU client for selected worker(s)"
 msgstr ""
 
 msgid "ClockTune profile"
-msgstr ""
+msgstr "Profil ClockTune"
 
 msgid "Select OC profile for selected worker(s)"
 msgstr ""
 
 msgid "Don't change"
-msgstr ""
+msgstr "Nu schimba"
 
 msgid "Enable or disable profit switch"
-msgstr ""
+msgstr "Activați sau dezactivați schimbarea profitului"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Dezactivat"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activează"
 
 msgid "Change or update groups and select the default client for your worker(s). Optionally you can add overclocking profiles that are saved in ClockTune menu."
 msgstr ""
 
 msgid "For"
-msgstr ""
+msgstr "Pentru"
 
 msgid "API parameters:"
-msgstr ""
+msgstr "Parametrii API"
 
 msgid "Reset to default"
-msgstr ""
+msgstr "Resetați la valorile standard"
 
 msgid "Clients' configuration"
-msgstr ""
+msgstr "Configurația clientului"
 
 msgid "You can use the following tags that will automatically replace the variable with the value you have set in your address editor."
 msgstr ""
 
 msgid "Tag"
-msgstr ""
+msgstr "Etichetă"
 
 msgid "Description"
-msgstr ""
+msgstr "Descriere"
 
 msgid "Tags marked red are undefined"
 msgstr ""
 
 msgid "Worker's name"
-msgstr ""
+msgstr "Numele minerului"
 
 msgid "Your e-mail address"
-msgstr ""
+msgstr "Adresa de email"
 
 msgid "Claymore's single mining"
 msgstr ""
@@ -1601,16 +1601,16 @@ msgid "Customer"
 msgstr ""
 
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgid "White label URL"
 msgstr ""
 
 msgid "Consumption"
-msgstr ""
+msgstr "Consum"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvează"
 
 msgid "Wallet number limit reached."
 msgstr ""
@@ -1634,19 +1634,19 @@ msgid "Type of wallet"
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "Adresă"
 
 msgid "API key"
-msgstr ""
+msgstr "API key"
 
 msgid "API secret"
-msgstr ""
+msgstr "API secret"
 
 msgid "Custom label"
 msgstr ""
 
 msgid "Add wallet"
-msgstr ""
+msgstr "Adaugă portofel"
 
 msgid "List the wallets and exchanges for which you want to monitor the balance."
 msgstr ""
@@ -1658,7 +1658,7 @@ msgid "Get minerstat+ to monitor more wallets."
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 msgid "Last updated"
 msgstr ""
@@ -1667,19 +1667,19 @@ msgid "Pending update"
 msgstr ""
 
 msgid "wallets"
-msgstr ""
+msgstr "portofele"
 
 msgid "wallet"
-msgstr ""
+msgstr "portofel"
 
 msgid "coins"
 msgstr ""
 
 msgid "coin"
-msgstr ""
+msgstr "moneda"
 
 msgid "total balance"
-msgstr ""
+msgstr "balanță totală"
 
 msgid "Please note that wallets are refreshed every 30 minutes."
 msgstr ""
@@ -1733,43 +1733,43 @@ msgid "and let them access your account"
 msgstr ""
 
 msgid "Add new user"
-msgstr ""
+msgstr "Adaugă user nou"
 
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Permission"
-msgstr ""
+msgstr "Permisiune"
 
 msgid "Technical"
-msgstr ""
+msgstr "Tehnic"
 
 msgid "Accounting"
-msgstr ""
+msgstr "Contabilitate"
 
 msgid "Guest"
-msgstr ""
+msgstr "Vizitator"
 
 msgid "Send email invitation to user"
 msgstr ""
 
 msgid "Add user"
-msgstr ""
+msgstr "Adaugă user"
 
 msgid "Active"
-msgstr ""
+msgstr "Activ"
 
 msgid "User"
-msgstr ""
+msgstr "Utilizator"
 
 msgid "Key"
-msgstr ""
+msgstr "Cheie"
 
 msgid "Last logged in"
 msgstr ""
 
 msgid "Never"
-msgstr ""
+msgstr "Niciodata"
 
 msgid "Add your first customer"
 msgstr ""
@@ -1781,7 +1781,7 @@ msgid "Add new account"
 msgstr ""
 
 msgid "Plan name"
-msgstr ""
+msgstr "Nume plan"
 
 msgid "Number of assigned workers"
 msgstr ""
@@ -1790,55 +1790,55 @@ msgid "Expires in"
 msgstr ""
 
 msgid "7 days"
-msgstr ""
+msgstr "7 zile"
 
 msgid "14 days"
-msgstr ""
+msgstr "14 zile"
 
 msgid "1 month"
-msgstr ""
+msgstr "1 lună"
 
 msgid "2 months"
-msgstr ""
+msgstr "2 luni"
 
 msgid "3 months"
-msgstr ""
+msgstr "3 luni"
 
 msgid "4 months"
-msgstr ""
+msgstr "4 luni"
 
 msgid "5 months"
-msgstr ""
+msgstr "5 luni"
 
 msgid "6 months"
-msgstr ""
+msgstr "6 luni"
 
 msgid "7 months"
-msgstr ""
+msgstr "7 luni"
 
 msgid "8 months"
-msgstr ""
+msgstr "8 luni"
 
 msgid "9 months"
-msgstr ""
+msgstr "9 luni"
 
 msgid "10 months"
-msgstr ""
+msgstr "10 luni"
 
 msgid "11 months"
-msgstr ""
+msgstr "11 luni"
 
 msgid "12 months"
-msgstr ""
+msgstr "12 luni"
 
 msgid "Add account"
-msgstr ""
+msgstr "Adaugă cont"
 
 msgid "Expires on"
-msgstr ""
+msgstr "Expiră pe"
 
 msgid "Confirm changes"
-msgstr ""
+msgstr "Confirmă schimbări"
 
 msgid "Please note that this action will delete all of the user's data permanently and cannot be undone."
 msgstr ""
@@ -1856,16 +1856,16 @@ msgid "Learn more about triggers"
 msgstr ""
 
 msgid "If"
-msgstr ""
+msgstr "Dacă"
 
 msgid "GPU Temperature"
-msgstr ""
+msgstr "Temperatură GPU"
 
 msgid "ASIC Temperature"
 msgstr ""
 
 msgid "Time"
-msgstr ""
+msgstr "Timp"
 
 msgid "Unresponsive"
 msgstr ""
@@ -1883,16 +1883,16 @@ msgid "minutes"
 msgstr ""
 
 msgid "then"
-msgstr ""
+msgstr "atunci"
 
 msgid "Set fans"
 msgstr ""
 
 msgid "Send email"
-msgstr ""
+msgstr "Trimite email"
 
 msgid "to"
-msgstr ""
+msgstr "către"
 
 msgid "Add trigger"
 msgstr ""
@@ -1919,10 +1919,10 @@ msgid "Please note that this action will delete your trigger."
 msgstr ""
 
 msgid "Thank you"
-msgstr ""
+msgstr "Mulțumim"
 
 msgid "Thank you!"
-msgstr ""
+msgstr "Mulțumim!"
 
 msgid "Your order is complete - enjoy your upgrade!"
 msgstr ""
@@ -1955,43 +1955,43 @@ msgid "Account settings"
 msgstr ""
 
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 msgid "Change"
-msgstr ""
+msgstr "Schimbă"
 
 msgid "Theme"
-msgstr ""
+msgstr "Temă"
 
 msgid "Available in minerstat+"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 msgid "Timezone"
 msgstr ""
 
 msgid "Currency"
-msgstr ""
+msgstr "Monedă"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 msgid "Earnings deduction percent"
 msgstr ""
 
 msgid "Sessions"
-msgstr ""
+msgstr "Sesiuni"
 
 msgid "Date"
-msgstr ""
+msgstr "Dată"
 
 msgid "Access Type"
-msgstr ""
+msgstr "Tip acces"
 
 msgid "Log out all"
 msgstr ""
@@ -2018,10 +2018,10 @@ msgid "Add new profile"
 msgstr ""
 
 msgid "Title"
-msgstr ""
+msgstr "Titlu"
 
 msgid "ClockTune"
-msgstr ""
+msgstr "ClockTune"
 
 msgid "Please note that this action will delete the scheduler profile and interrupt all scheduled workers."
 msgstr ""
@@ -2033,10 +2033,10 @@ msgid "Please select valid FROM - TO time."
 msgstr ""
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Profile title"
-msgstr ""
+msgstr "Titlu profil"
 
 msgid "Describe your scheduler profile"
 msgstr ""
@@ -2045,13 +2045,13 @@ msgid "Set the timetable"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "End"
-msgstr ""
+msgstr "Final"
 
 msgid "Mining client"
-msgstr ""
+msgstr "Client minerit"
 
 msgid "Select client to use for the schedule"
 msgstr ""
@@ -2060,7 +2060,7 @@ msgid "From profit switch"
 msgstr ""
 
 msgid "Profile settings"
-msgstr ""
+msgstr "Setări profil"
 
 msgid "Define schedule, name your scheduler profile, select the client and edit its config."
 msgstr ""
@@ -2069,7 +2069,7 @@ msgid "This client is not available."
 msgstr ""
 
 msgid "Select coin"
-msgstr ""
+msgstr "Alege monedă"
 
 msgid "Select pool"
 msgstr ""
@@ -2078,13 +2078,13 @@ msgid "Select wallet"
 msgstr ""
 
 msgid "Coin"
-msgstr ""
+msgstr "Monedă"
 
 msgid "Pool fee"
 msgstr ""
 
 msgid "fee"
-msgstr ""
+msgstr "taxă"
 
 msgid "Add"
 msgstr ""
@@ -2102,7 +2102,7 @@ msgid "Autoselect option will automatically select most suitable client and conf
 msgstr ""
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Algoritm"
 
 msgid "Power consumption"
 msgstr ""
