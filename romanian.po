@@ -2270,7 +2270,7 @@ msgid "This is the list of workers from your JSON file. Please confirm which wor
 msgstr ""
 
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgid "ASIC username (SSH)"
 msgstr ""
@@ -2282,7 +2282,7 @@ msgid "Copy values down"
 msgstr ""
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplică"
 
 msgid "Cancel import"
 msgstr ""
@@ -2300,7 +2300,7 @@ msgid "Discard"
 msgstr ""
 
 msgid "Import"
-msgstr ""
+msgstr "Importă"
 
 msgid "Hardware distribution"
 msgstr ""
@@ -2330,7 +2330,7 @@ msgid "Daily average data"
 msgstr ""
 
 msgid "File"
-msgstr ""
+msgstr "Fișier"
 
 msgid "Profitability data"
 msgstr ""
@@ -2375,10 +2375,10 @@ msgid "Learn more about statistics and data export"
 msgstr ""
 
 msgid "2FA is not activated"
-msgstr ""
+msgstr "2FA nu este activat"
 
 msgid "Set 2FA"
-msgstr ""
+msgstr "Setează 2FA"
 
 msgid "Your e-mail is not confirmed. Please check your inbox."
 msgstr ""
@@ -2393,7 +2393,7 @@ msgid "Filter your results to examine the issues more closely."
 msgstr ""
 
 msgid "Account issues"
-msgstr ""
+msgstr "Probleme cont"
 
 msgid "Worker/Mining issues"
 msgstr ""
@@ -2408,13 +2408,13 @@ msgid "Speed data missing"
 msgstr ""
 
 msgid "Critical"
-msgstr ""
+msgstr "Critic"
 
 msgid "Important"
-msgstr ""
+msgstr "Important"
 
 msgid "Other"
-msgstr ""
+msgstr "Altele"
 
 msgid "Temporary error."
 msgstr ""
@@ -2429,7 +2429,7 @@ msgid "My minerstat dashboard"
 msgstr ""
 
 msgid "Market"
-msgstr ""
+msgstr "Piață"
 
 msgid "Edit market view"
 msgstr ""
@@ -2441,22 +2441,22 @@ msgid "active<br>workers"
 msgstr ""
 
 msgid "total<br>Watt"
-msgstr ""
+msgstr "Watt<br>total"
 
 msgid "mining<br>efficiency"
-msgstr ""
+msgstr "eficacitate<br>minerit"
 
 msgid "Expected earnings"
-msgstr ""
+msgstr "Câștigurile așteptate"
 
 msgid "Per day"
-msgstr ""
+msgstr "Zilnic"
 
 msgid "Per week"
-msgstr ""
+msgstr "Săptămânal"
 
 msgid "Per month"
-msgstr ""
+msgstr "Lunar"
 
 msgid "Top coins by algorithms"
 msgstr ""
@@ -2477,7 +2477,7 @@ msgid "Go to address editor"
 msgstr ""
 
 msgid "Offline workers"
-msgstr ""
+msgstr "Mineri offline"
 
 msgid "Crashed drivers"
 msgstr ""
@@ -2492,28 +2492,28 @@ msgid "Check whole diagnostic"
 msgstr ""
 
 msgid "Market view"
-msgstr ""
+msgstr "Vizualizarea piața"
 
 msgid "Algorithms view"
-msgstr ""
+msgstr "Vizualizarea algoritmilor"
 
 msgid "Customers Workers"
-msgstr ""
+msgstr "Minerii clienților"
 
 msgid "Rewards"
-msgstr ""
+msgstr "Recompense"
 
 msgid "Customers Dashboard"
-msgstr ""
+msgstr "Panoul de control al clienților"
 
 msgid "Manage customers"
-msgstr ""
+msgstr "Gestionează clienții"
 
 msgid "Daily revenue"
-msgstr ""
+msgstr "Venitul zilnic"
 
 msgid "Daily reward"
-msgstr ""
+msgstr "Recompensă zilnică"
 
 msgid "Switch to this account"
 msgstr ""
@@ -2522,19 +2522,19 @@ msgid "Unable to rename."
 msgstr ""
 
 msgid "Unknown room"
-msgstr ""
+msgstr "Cameră necunoscută"
 
 msgid "Set room name"
-msgstr ""
+msgstr "Setează numele camerei"
 
 msgid "Room already exists"
-msgstr ""
+msgstr "Camera există deja"
 
 msgid "Room does not exist"
-msgstr ""
+msgstr "Camera nu există"
 
 msgid "Control rooms"
-msgstr ""
+msgstr "Camerele de control"
 
 msgid "Upgrade your plan to use control room."
 msgstr ""
@@ -2549,34 +2549,34 @@ msgid "Learn more about control room"
 msgstr ""
 
 msgid "Create new room"
-msgstr ""
+msgstr "Creează cameră noua"
 
 msgid "Please note that this action will detach all the workers that are attached to this room."
 msgstr ""
 
 msgid "Compact"
-msgstr ""
+msgstr "Compact"
 
 msgid "Extended"
-msgstr ""
+msgstr "Extins"
 
 msgid "Label"
-msgstr ""
+msgstr "Etichetă"
 
 msgid "Mount one or more workers at position (0,0)."
 msgstr ""
 
 msgid "Empty slot"
-msgstr ""
+msgstr "Loc liber"
 
 msgid "Export profiles (JSON)"
-msgstr ""
+msgstr "Exportă profile (JSON)"
 
 msgid "Import profiles (JSON)"
-msgstr ""
+msgstr "Importă profile (JSON)"
 
 msgid "Profile name"
-msgstr ""
+msgstr "Nume profil"
 
 msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
 msgstr ""
@@ -2588,7 +2588,7 @@ msgid "for AMD and Nvidia GPUs"
 msgstr ""
 
 msgid "Please name your profile."
-msgstr ""
+msgstr "Te rugăm să denumești profilul."
 
 msgid "Unable to OC."
 msgstr ""
@@ -2603,25 +2603,25 @@ msgid "This is advanced setting and with using it, you take full responsibility 
 msgstr ""
 
 msgid "Power limit"
-msgstr ""
+msgstr "Limită putere"
 
 msgid "Core Clock"
-msgstr ""
+msgstr "Core Clock"
 
 msgid "Memory Clock"
-msgstr ""
+msgstr "Memory Clock"
 
 msgid "Fan speed"
-msgstr ""
+msgstr "Viteză ventilator"
 
 msgid "VDDC"
-msgstr ""
+msgstr "VDDC"
 
 msgid "VDDCI"
-msgstr ""
+msgstr "VDDCI"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avansat"
 
 msgid "When using advanced editor, make sure to separate values with a space (e.g. 110 108 107 108). Each value represents one GPU."
 msgstr ""
@@ -2633,13 +2633,13 @@ msgid "Writing 0 or skip - will skip the currently applied setting that you have
 msgstr ""
 
 msgid "Setting"
-msgstr ""
+msgstr "Setări"
 
 msgid "GPU core voltage"
-msgstr ""
+msgstr "Voltag GPU core"
 
 msgid "I/O bus voltage"
-msgstr ""
+msgstr "Voltaj I/O bus"
 
 msgid "Fan curve"
 msgstr ""
@@ -2651,43 +2651,43 @@ msgid "Go to triggers"
 msgstr ""
 
 msgid "Updated"
-msgstr ""
+msgstr "Actualizat"
 
 msgid "Billing details"
-msgstr ""
+msgstr "Detalii facturare"
 
 msgid "Workers in a plan"
-msgstr ""
+msgstr "Minerin in plan"
 
 msgid "Plan expiry"
-msgstr ""
+msgstr "Planul expiră"
 
 msgid "minerstat+ expiry"
-msgstr ""
+msgstr "minerstat+ expiră"
 
 msgid "Billed to"
-msgstr ""
+msgstr "Facturat către"
 
 msgid "Order log"
-msgstr ""
+msgstr "Log comandă"
 
 msgid "Num."
-msgstr ""
+msgstr "Num."
 
 msgid "Order"
-msgstr ""
+msgstr "Comandă"
 
 msgid "Total"
-msgstr ""
+msgstr "Toal"
 
 msgid "Method"
-msgstr ""
+msgstr "Metoda"
 
 msgid "Date paid"
-msgstr ""
+msgstr "Data plătită"
 
 msgid "Invoice"
-msgstr ""
+msgstr "Factură"
 
 msgid "No past orders"
 msgstr ""
@@ -2696,40 +2696,40 @@ msgid "Upgrading your account can bring you more workers, more detailed statisti
 msgstr ""
 
 msgid "Plans"
-msgstr ""
+msgstr "Planuri"
 
 msgid "Free plan"
-msgstr ""
+msgstr "Plan gratuit"
 
 msgid "Up to 2 workers"
-msgstr ""
+msgstr "Până la 2 mineri"
 
 msgid "forever"
-msgstr ""
+msgstr "totdeauna"
 
 msgid "Tier plan"
 msgstr ""
 
 msgid "Up to 1,000 workers"
-msgstr ""
+msgstr "Până la 1,000 mineri"
 
 msgid "per worker per month"
-msgstr ""
+msgstr "pe miner pe lună"
 
 msgid "Custom plan"
-msgstr ""
+msgstr "Plan personalizat"
 
 msgid "For more than 1,000 workers"
-msgstr ""
+msgstr "Pentru mai multe de 1,000 mineri"
 
 msgid "Add-ons"
-msgstr ""
+msgstr "Add-on-uri"
 
 msgid "extended stats, themes & advanced features"
 msgstr ""
 
 msgid "per month"
-msgstr ""
+msgstr "pe lună"
 
 msgid "customized and branded customers' profiles"
 msgstr ""
@@ -2738,139 +2738,139 @@ msgid "Add unlimited amount of customers and assign them the workers you bought.
 msgstr ""
 
 msgid "Unlimited customers"
-msgstr ""
+msgstr "Clieți nelimitați"
 
 msgid "Add up to five links to the custom menu that will connect the customers' profile with your website."
 msgstr ""
 
 msgid "Custom menu"
-msgstr ""
+msgstr "Menu custom"
 
 msgid "Customize your customers' profiles in your colors, fonts, logo, and choose between three different layouts."
 msgstr ""
 
 msgid "Your branding"
-msgstr ""
+msgstr "Branding-ul tau"
 
 msgid "Connect your customer's profile with your own domain. You will only need to set up a cname and the rest is taken care from minerstat dashboard."
 msgstr ""
 
 msgid "Your domain"
-msgstr ""
+msgstr "Domeniul tău"
 
 msgid "Our designer will take the time to help you set up the customer's profile in your branding and advise you how to connect your brand and website with customer's profile on minerstat."
 msgstr ""
 
 msgid "Help from our designer"
-msgstr ""
+msgstr "Ajutor de la designer-ul nostru"
 
 msgid "Monitor the traffic on your customers' profiles with your own Google Analytics code."
 msgstr ""
 
 msgid "Your Google Analytics"
-msgstr ""
+msgstr "Google Analytics-ul tău"
 
 msgid "Remove any sign of minerstat copyright and let the customers' profiles be shown as your own."
 msgstr ""
 
 msgid "minerstat copyright removed"
-msgstr ""
+msgstr "minerstat copyright a fost eliminat"
 
 msgid "Licence type"
-msgstr ""
+msgstr "Tip licență"
 
 msgid "Payment method"
-msgstr ""
+msgstr "Metodă de plată"
 
 msgid "Various currencies"
-msgstr ""
+msgstr "Diferite valute"
 
 msgid "Supported by PayPal"
-msgstr ""
+msgstr "Susținut de PayPal"
 
 msgid "and"
-msgstr ""
+msgstr "și"
 
 msgid "Supported by CoinGate"
-msgstr ""
+msgstr "Susținut de CoinGate"
 
 msgid "Customer data"
-msgstr ""
+msgstr "Date client"
 
 msgid "This information is used for the issuance an official invoice for buying the service. We don't store your personal information; the data is saved with our invoicing partner Quaderno."
 msgstr ""
 
 msgid "Required field"
-msgstr ""
+msgstr "Câmp obligatoriu"
 
 msgid "First Name"
-msgstr ""
+msgstr "Prenume"
 
 msgid "Last Name"
-msgstr ""
+msgstr "Nume"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Nume companie"
 
 msgid "VAT Number"
-msgstr ""
+msgstr "Număr TVA"
 
 msgid "Street Line 1"
-msgstr ""
+msgstr "Adresă linia 1"
 
 msgid "Street Line 2"
-msgstr ""
+msgstr "Adresă linia 2"
 
 msgid "City"
-msgstr ""
+msgstr "Oraș"
 
 msgid "Postal Code"
-msgstr ""
+msgstr "Cod poștal"
 
 msgid "Region"
-msgstr ""
+msgstr "Regiune"
 
 msgid "Country"
-msgstr ""
+msgstr "Țară"
 
 msgid "Order summary"
-msgstr ""
+msgstr "Sumar comandă"
 
 msgid "Plan duration"
-msgstr ""
+msgstr "Durată plan"
 
 msgid "Upgrade discount"
-msgstr ""
+msgstr "Discount pentru upgrade"
 
 msgid "For upgrading an existing unexpired plan."
 msgstr ""
 
 msgid "Duration discount"
-msgstr ""
+msgstr "Durată reducere"
 
 msgid "For ordering for longer period of time."
 msgstr ""
 
 msgid "Coupon code"
-msgstr ""
+msgstr "Cod cupon"
 
 msgid "Redeem"
 msgstr ""
 
 msgid "Sub total"
-msgstr ""
+msgstr "Subtotal"
 
 msgid "Taxes"
-msgstr ""
+msgstr "Taxe"
 
 msgid "Proceed to payment"
-msgstr ""
+msgstr "Finalizează plata"
 
 msgid "Upgrade now"
-msgstr ""
+msgstr "Upgrade acum"
 
 msgid "Total price"
-msgstr ""
+msgstr "Preț total"
 
 msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr ""
@@ -2879,16 +2879,16 @@ msgid "Billing order"
 msgstr ""
 
 msgid "Features"
-msgstr ""
+msgstr "Caracteristici"
 
 msgid "Join us on Discord where our awesome community will help you out."
 msgstr ""
 
 msgid "Go to Discord"
-msgstr ""
+msgstr "Către Discord"
 
 msgid "24/7 Community Support"
-msgstr ""
+msgstr "24/7 suport comunitar"
 
 msgid "Global profitability data and profitability per group and coin."
 msgstr ""
@@ -2897,7 +2897,7 @@ msgid "All software can be downloaded at any time and upgraded to the newest ver
 msgstr ""
 
 msgid "Free Software Upgrades"
-msgstr ""
+msgstr "Actualizări software gratuite"
 
 msgid "Per worker profitability data and profitability data per coin."
 msgstr ""
@@ -2906,10 +2906,10 @@ msgid "Switch between light and dark theme."
 msgstr ""
 
 msgid "Go to settings"
-msgstr ""
+msgstr "Către setări"
 
 msgid "Light & Dark themes"
-msgstr ""
+msgstr "Theme Light & Dark"
 
 msgid "Monitor your balance on wallets and pools."
 msgstr ""
@@ -2918,13 +2918,13 @@ msgid "Worker's details page shows historical hashrate for all coins that were m
 msgstr ""
 
 msgid "Hashrate historical data"
-msgstr ""
+msgstr "Datele istorice pentru hashrate"
 
 msgid "Per worker statistics show you the historical efficiency data."
 msgstr ""
 
 msgid "Efficiency historical data"
-msgstr ""
+msgstr "Datele istorice pentru eficacitate"
 
 msgid "Take actions when certain event occurs, such as temperature increase of hashrate drop."
 msgstr ""
@@ -2936,25 +2936,25 @@ msgid "Global statistics and per worker statistics show you historical data of y
 msgstr ""
 
 msgid "Revenue historical data"
-msgstr ""
+msgstr "Datele istorice pentru venituri"
 
 msgid "Set up mobile alerts for temperature change, offline or online status, hashrate drop, and more."
 msgstr ""
 
 msgid "Mobile alerting"
-msgstr ""
+msgstr "Alertare prin mobil"
 
 msgid "Worker's details page shows historical temperature for all GPUs or ASIC."
 msgstr ""
 
 msgid "Temperature historical data"
-msgstr ""
+msgstr "Date istorice pentru temperatură"
 
 msgid "Set up Telegram alerts for temperature change, offline or online status, hashrate drop, and more."
 msgstr ""
 
 msgid "Telegram alerting"
-msgstr ""
+msgstr "Alertare prin Telegram"
 
 msgid "Grant access to your team members or create new accounts for your customers."
 msgstr ""
@@ -2966,7 +2966,7 @@ msgid "Set up e-mail alerts for temperature change, offline or online status, ha
 msgstr ""
 
 msgid "Email alerting"
-msgstr ""
+msgstr "Alerta prin email"
 
 msgid "Any account can be made public for quicker and easier monitoring."
 msgstr ""
@@ -2981,58 +2981,58 @@ msgid "Schedule your mining activity and mine with different profile for certain
 msgstr ""
 
 msgid "Historical data"
-msgstr ""
+msgstr "Date istorice"
 
 msgid "Last 14 days"
-msgstr ""
+msgstr "Ultimele 14 days"
 
 msgid "Workers data saved every"
-msgstr ""
+msgstr "Datele minerilor salvate la fiecare"
 
 msgid "10 minutes"
-msgstr ""
+msgstr "10 minute"
 
 msgid "Balance monitoring for"
-msgstr ""
+msgstr "Monitorizarea balanță pentru"
 
 msgid "5 wallets & 5 pools"
-msgstr ""
+msgstr "2 portfofele & 2 pools"
 
 msgid "Access to all new custom themes"
-msgstr ""
+msgstr "Acces la toate noile teme personalizate"
 
 msgid "export"
-msgstr ""
+msgstr "export"
 
 msgid "Last 60 days"
-msgstr ""
+msgstr "Ultimele 60 zile"
 
 msgid "Unlimited wallets & unlimited pools"
-msgstr ""
+msgstr "Portofele nelimitate & pools nelimitate"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Exclude"
 
 msgid "Include for 5 EUR/month"
-msgstr ""
+msgstr "Include pentru 5EUR/lună"
 
 msgid "Number of workers"
-msgstr ""
+msgstr "Număr de mineri"
 
 msgid "month"
-msgstr ""
+msgstr "lună"
 
 msgid "full price"
-msgstr ""
+msgstr "preț întreg"
 
 msgid "months"
-msgstr ""
+msgstr "luni"
 
 msgid "save"
-msgstr ""
+msgstr "salvează"
 
 msgid "Plan selection"
-msgstr ""
+msgstr "Selectarea planului"
 
 msgid "Your account is fully upgraded. If you need more than 1,000 workers, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr ""
@@ -3041,118 +3041,118 @@ msgid "You already own minerstat+ add-on. If you are in interested in something 
 msgstr ""
 
 msgid "Last 6 days"
-msgstr ""
+msgstr "Ultimele 6 zile"
 
 msgid "30 minutes"
-msgstr ""
+msgstr "30 minute"
 
 msgid "2 wallets & 2 pools"
-msgstr ""
+msgstr "2 portfofele & 2 pools"
 
 msgid "Inquiry"
-msgstr ""
+msgstr "Cerere"
 
 msgid "Interested in more than 1,000 workers? Use the following form and let us know more about your business setup."
 msgstr ""
 
 msgid "Company"
-msgstr ""
+msgstr "Companie"
 
 msgid "Company registered for VAT?"
-msgstr ""
+msgstr "Companie înregistrată TVA?"
 
 msgid "No"
-msgstr ""
+msgstr "Nu"
 
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 msgid "Type of workers"
-msgstr ""
+msgstr "Tip mineri"
 
 msgid "ASICs"
-msgstr ""
+msgstr "ASICs"
 
 msgid "GPUs & ASICs"
-msgstr ""
+msgstr "GPUs & ASICs"
 
 msgid "Preferred payment method"
-msgstr ""
+msgstr "Metoda de plată preferată"
 
 msgid "Direct deposit to bank account"
-msgstr ""
+msgstr "Depunere directă în cont bancar"
 
 msgid "Message to us"
-msgstr ""
+msgstr "Trimite-ne mesaj"
 
 msgid "Send message"
-msgstr ""
+msgstr "Trimite mesaj"
 
 msgid "Daily balance statistics"
-msgstr ""
+msgstr "Statistici balanța zilnică"
 
 msgid "Detected changes"
-msgstr ""
+msgstr "Schimbări detectate"
 
 msgid "Source"
-msgstr ""
+msgstr "Sursa"
 
 msgid "New balance"
-msgstr ""
+msgstr "Balanță nouă"
 
 msgid "Please note that wallets are checked every 30 minutes and pools every 20 minutes. USD value is calculated using the most recent exchange rate."
 msgstr ""
 
 msgid "Monitoring"
-msgstr ""
+msgstr "Monitorizare"
 
 msgid "No wallets or pools"
-msgstr ""
+msgstr "Fără portfofele sau pool-uri"
 
 msgid "You aren't monitoring any wallets or pools at the moment."
 msgstr ""
 
 msgid "AMD Strap Editor"
-msgstr ""
+msgstr "Editor AMD Strap"
 
 msgid "Your BIOS strap"
-msgstr ""
+msgstr "BIOS strap-ul tău"
 
 msgid "Success"
-msgstr ""
+msgstr "Succes"
 
 msgid "Invalid content"
-msgstr ""
+msgstr "Conținut invalid"
 
 msgid "Modify"
-msgstr ""
+msgstr "Modifică"
 
 msgid "Result"
-msgstr ""
+msgstr "Rezultat"
 
 msgid "Recommendations"
-msgstr ""
+msgstr "Recomandări"
 
 msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
 msgstr ""
 
 msgid "Ambassador"
-msgstr ""
+msgstr "Ambasador"
 
 msgid "Please confirm your e-mail address to set up alerts"
-msgstr ""
+msgstr "Confirmă adresa de email pentru a configura alertele"
 
 msgid "Resend confirmation email"
-msgstr ""
+msgstr "Re-trimite email-ul de confirmare"
 
 msgid "Notification setting"
-msgstr ""
+msgstr "Setări notificare"
 
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 msgid "Upgrade your plan to use Telegram notifications."
 msgstr ""
@@ -3167,28 +3167,28 @@ msgid "When worker comes back online"
 msgstr ""
 
 msgid "ASIC notifications"
-msgstr ""
+msgstr "Notificări ASIC"
 
 msgid "Hardware errors and high temperature"
 msgstr ""
 
 msgid "Efficiency rate drop"
-msgstr ""
+msgstr "Scădere în rata eficacității"
 
 msgid "Connections"
-msgstr ""
+msgstr "Conexiuni"
 
 msgid "Telegram ID"
-msgstr ""
+msgstr "Telegram ID"
 
 msgid "Connect with Telegram"
-msgstr ""
+msgstr "Conectează-te cu Telegram"
 
 msgid "Switch"
-msgstr ""
+msgstr "Schimb"
 
 msgid "Mobile device ID"
-msgstr ""
+msgstr "ID-ul dispozitivului mobil"
 
 msgid "Please enable 2FA first"
 msgstr ""
@@ -3203,34 +3203,34 @@ msgid "Import pools (JSON)"
 msgstr ""
 
 msgid "Pool address"
-msgstr ""
+msgstr "Adresa Pool"
 
 msgid "Used"
-msgstr ""
+msgstr "Folosit"
 
 msgid "Export wallets (JSON)"
-msgstr ""
+msgstr "Exportă portfofele (JSON)"
 
 msgid "Import wallets (JSON)"
-msgstr ""
+msgstr "Importă portfofele (JSON)"
 
 msgid "Wallet address"
-msgstr ""
+msgstr "Adresa portofelului"
 
 msgid "Before deleting this tag, please make sure that it's no longer in use in your configurations."
 msgstr ""
 
 msgid "Account security"
-msgstr ""
+msgstr "Securitatea contului"
 
 msgid "2FA setup"
-msgstr ""
+msgstr "Configurare 2FA"
 
 msgid "Your authentication code"
-msgstr ""
+msgstr "Codul tău de autentificare"
 
 msgid "Activate 2FA"
-msgstr ""
+msgstr "Activează 2FA"
 
 msgid "Two Factor Authentication allows you to secure your user account and access it faster. Additionally, setting up 2FA will allow you to use <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>To set up your Google Auth 2FA follow the next steps."
 msgstr ""
@@ -3245,37 +3245,37 @@ msgid "Please note that after you successfully set up 2FA, the system will logge
 msgstr ""
 
 msgid "Access key"
-msgstr ""
+msgstr "Cheia de acces"
 
 msgid "Secret key"
-msgstr ""
+msgstr "Cheia secretă"
 
 msgid "Date and time"
-msgstr ""
+msgstr "Data și timp"
 
 msgid "Print recovery key"
-msgstr ""
+msgstr "Printează cheia de recuperare"
 
 msgid "Finish setup"
-msgstr ""
+msgstr "Termină configurarea"
 
 msgid "You have successfully set up your 2FA"
-msgstr ""
+msgstr "Ai configurat cu succes 2FA-ul tău"
 
 msgid "Print your recovery key, save it, and finish with the setup."
-msgstr ""
+msgstr "Printează cheia de recuperare, salveaz-o, și termină configurarea."
 
 msgid "2FA activated"
-msgstr ""
+msgstr "2FA activat"
 
 msgid "Successfully de-activated."
-msgstr ""
+msgstr "Dezactivat cu succes."
 
 msgid "De-activate 2FA"
-msgstr ""
+msgstr "Dezactivează 2FA"
 
 msgid "Your 2FA is activated."
-msgstr ""
+msgstr "2FA-ul tău este activat."
 
 msgid "You will need to enter your authentication code to de-activate it."
-msgstr ""
+msgstr "Trebuie să introduci codul de autentificare pentru a-l dezactiva."
